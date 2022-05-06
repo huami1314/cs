@@ -5,4 +5,4 @@
 本人(huami)不承担任何法律责任！  
 本网站最终解释权归运营者所有！  
 密码请联系站长获取！  
-本网站基于GitHub开源项目--[Alist](https://github.com/Xhofe/alist "Alist")开发！
+本网站基于GitHub开源项目--[Alist](https://github.com/Xhofe/alist "Alist")--开发！
